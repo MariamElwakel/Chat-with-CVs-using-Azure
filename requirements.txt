@@ -1,0 +1,12 @@
+streamlit
+
+langchain
+langchain-openai
+langchain-community
+
+qdrant-client
+
+python-dotenv
+
+pymupdf4llm==0.3.4 
+PyMuPDF==1.27.1
